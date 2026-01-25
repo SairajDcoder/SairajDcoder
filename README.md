@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sairajdcoder&label=Profile%20views&color=0e75b6&style=flat" alt="sairajdcoder" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://my-portfolio-virid-theta-24.vercel.app/" alt="sairajdcoder" /></a> (Click here to see my portfolio) </p>
+<p align="left"> <a href="https://my-portfolio-virid-theta-24.vercel.app/"><img src="https://my-portfolio-virid-theta-24.vercel.app/" alt="sairajdcoder" /></a> (Click here to see my portfolio) </p>
 
 - 🌱 I’m currently learning **MERN Stack**
 
